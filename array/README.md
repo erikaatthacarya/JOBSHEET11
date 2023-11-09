@@ -1,3 +1,0 @@
-# JOBSHEET9
-
-array
